@@ -37,6 +37,9 @@ If you find the code useful in your research, please consider citing our paper:
 
 
 Note: Our implementation uses parts of some public codes [1-3].
-[1] Implementations of "Multi-Objective Interpolation Training for Robustness to Label Noise" https://https://github.com/DiegoOrtego/LabelNoiseMOIT
-[2] Implementations of "MoCo: Momentum Contrast for Unsupervised Visual Representation Learning" https://github.com/facebookresearch/moco 
-[3] Implementations of "Learning from Noisy Data with Robust Representation Learning" https://github.com/salesforce/RRL/ 
+
+[1] MOIT https://https://github.com/DiegoOrtego/LabelNoiseMOIT
+
+[2] MoCo https://github.com/facebookresearch/moco
+
+[3] RRL https://github.com/salesforce/RRL/ 
